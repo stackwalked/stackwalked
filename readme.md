@@ -1,3 +1,5 @@
+This repository is currently private.
+
 ```toml
 [target]
 type = "shared"
