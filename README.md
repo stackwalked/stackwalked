@@ -1,3 +1,10 @@
+```toml
+[target]
+type = "shared"
+compile-options = ["/GS-", "/bigobj"]
+compile-features = ["cxx_std_23"]
+```
+
 ```cpp
 return {
     .discord = "_returnaddress"
